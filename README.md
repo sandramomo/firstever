@@ -1,2 +1,3 @@
 # firstever
-My very first projext
+My very first project
+Don't judge 
